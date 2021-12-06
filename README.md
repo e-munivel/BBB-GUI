@@ -1,11 +1,4 @@
-<img width="1012" alt="bbb-greenlight-banner" src="https://user-images.githubusercontent.com/1273169/141143584-684766cf-8633-4d66-b35e-f134a368e4c8.png">
-
-
-# Greenlight
-
-![Coverage
-!Status](https://coveralls.io/repos/github/bigbluebutton/greenlight/badge.svg?branch=master)
-![Docker Pulls](https://img.shields.io/docker/pulls/bigbluebutton/greenlight.svg)
+# BBB-GUI (Greenlight)
 
 Greenlight is a simple front-end interface for your BigBlueButton server. At its heart, Greenlight provides a minimalistic web-based application that allows users to:
 
