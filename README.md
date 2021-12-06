@@ -1,4 +1,4 @@
-# BBB-GUI (Greenlight)
+# BBB Greenlight
 
 Greenlight is a simple front-end interface for your BigBlueButton server. At its heart, Greenlight provides a minimalistic web-based application that allows users to:
 
